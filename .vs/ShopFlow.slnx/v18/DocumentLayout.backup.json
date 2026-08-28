@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\ShopFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B457A57-E85D-49F0-8903-A2CA8660B9E9}|ShopFlow.csproj|e:\\c#\\shopflow\\features\\addtocart\\addtocartendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B457A57-E85D-49F0-8903-A2CA8660B9E9}|ShopFlow.csproj|solutionrelative:features\\addtocart\\addtocartendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B457A57-E85D-49F0-8903-A2CA8660B9E9}|ShopFlow.csproj|e:\\c#\\shopflow\\features\\addtocart\\addtocartresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B457A57-E85D-49F0-8903-A2CA8660B9E9}|ShopFlow.csproj|solutionrelative:features\\addtocart\\addtocartresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B457A57-E85D-49F0-8903-A2CA8660B9E9}|ShopFlow.csproj|e:\\c#\\shopflow\\features\\addtocart\\addtocartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B457A57-E85D-49F0-8903-A2CA8660B9E9}|ShopFlow.csproj|solutionrelative:features\\addtocart\\addtocartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddToCartEndpoint.cs",
+              "DocumentMoniker": "E:\\C#\\ShopFlow\\Features\\AddToCart\\AddToCartEndpoint.cs",
+              "RelativeDocumentMoniker": "Features\\AddToCart\\AddToCartEndpoint.cs",
+              "ToolTip": "E:\\C#\\ShopFlow\\Features\\AddToCart\\AddToCartEndpoint.cs",
+              "RelativeToolTip": "Features\\AddToCart\\AddToCartEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T11:26:26.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddToCartResponse.cs",
+              "DocumentMoniker": "E:\\C#\\ShopFlow\\Features\\AddToCart\\AddToCartResponse.cs",
+              "RelativeDocumentMoniker": "Features\\AddToCart\\AddToCartResponse.cs",
+              "ToolTip": "E:\\C#\\ShopFlow\\Features\\AddToCart\\AddToCartResponse.cs",
+              "RelativeToolTip": "Features\\AddToCart\\AddToCartResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T11:24:28.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddToCartRequest.cs",
+              "DocumentMoniker": "E:\\C#\\ShopFlow\\Features\\AddToCart\\AddToCartRequest.cs",
+              "RelativeDocumentMoniker": "Features\\AddToCart\\AddToCartRequest.cs",
+              "ToolTip": "E:\\C#\\ShopFlow\\Features\\AddToCart\\AddToCartRequest.cs",
+              "RelativeToolTip": "Features\\AddToCart\\AddToCartRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T11:21:24.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

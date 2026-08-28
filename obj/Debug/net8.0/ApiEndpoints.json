@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ShopFlow.Features.AddToCart.AddToCartEndpoint",
+    "Method": "AddToCart",
+    "RelativePath": "AddToCartEndpoint",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ShopFlow.Features.AddToCart.AddToCartRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ShopFlow.Features.AddToCart.AddToCartResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
